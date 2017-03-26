@@ -97,7 +97,7 @@ Pod::Spec.new do |s|
 
   #  s.exclude_files = "SCMoveView/Exclude"
 
-  #  s.public_header_files = "CMoveView/**/*.h"
+  s.public_header_files = "CMoveView/**/*.h"
 
 
   # ――― Resources ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
